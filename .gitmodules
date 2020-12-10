@@ -1,0 +1,6 @@
+[submodule "WinPartRP"]
+	path = WinPartRP
+	url = https://github.com/NickShekhovtsov/WinPartRP
+[submodule "RMWeb"]
+	path = RMWeb
+	url = https://github.com/NickShekhovtsov/RM
